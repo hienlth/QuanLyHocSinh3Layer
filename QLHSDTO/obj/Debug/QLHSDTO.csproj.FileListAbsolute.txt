@@ -1,0 +1,14 @@
+H:\LTWin_HK1_2015_2016\SEQLHocSinhs\QLHSDTO\bin\Debug\QLHSDTO.dll
+H:\LTWin_HK1_2015_2016\SEQLHocSinhs\QLHSDTO\bin\Debug\QLHSDTO.pdb
+H:\LTWin_HK1_2015_2016\SEQLHocSinhs\QLHSDTO\obj\Debug\QLHSDTO.dll
+H:\LTWin_HK1_2015_2016\SEQLHocSinhs\QLHSDTO\obj\Debug\QLHSDTO.pdb
+E:\SEQLHocSinhs\QLHSDTO\bin\Debug\QLHSDTO.dll
+E:\SEQLHocSinhs\QLHSDTO\bin\Debug\QLHSDTO.pdb
+E:\SEQLHocSinhs\QLHSDTO\obj\Debug\QLHSDTO.dll
+E:\SEQLHocSinhs\QLHSDTO\obj\Debug\QLHSDTO.pdb
+E:\SEQLHocSinhs\QLHSDTO\obj\Debug\QLHSDTO.csprojResolveAssemblyReference.cache
+E:\SEQLHocSinhs\QuanLyHocSinh3Layer\QLHSDTO\bin\Debug\QLHSDTO.dll
+E:\SEQLHocSinhs\QuanLyHocSinh3Layer\QLHSDTO\bin\Debug\QLHSDTO.pdb
+E:\SEQLHocSinhs\QuanLyHocSinh3Layer\QLHSDTO\obj\Debug\QLHSDTO.csprojResolveAssemblyReference.cache
+E:\SEQLHocSinhs\QuanLyHocSinh3Layer\QLHSDTO\obj\Debug\QLHSDTO.dll
+E:\SEQLHocSinhs\QuanLyHocSinh3Layer\QLHSDTO\obj\Debug\QLHSDTO.pdb
